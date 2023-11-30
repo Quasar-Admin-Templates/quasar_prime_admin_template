@@ -61,7 +61,7 @@ enhancements, improvements, and new features, ensuring your admin dashboard rema
 
 1. Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 Dark Mode
 
@@ -73,7 +73,7 @@ Dark Mode
 
 3. Ecommerce
 
-![Ecommerce](images/Ecommerce.png)
+![Ecommerce](images/ECommerce.png)
 
 4. Email
 
