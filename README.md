@@ -1,5 +1,8 @@
 # Quasar Prime Admin Template
 
+
+## Proudly serving over 3+ happy customers and counting! 🚀🚀🚀
+
 Introducing Quasar Prime Admin Template – Your Ultimate Solution for a Powerful and Elegant Dashboard!
 
 Quasar Prime Template – Empowering Developers with an Exceptional Vue.js Admin Dashboard
