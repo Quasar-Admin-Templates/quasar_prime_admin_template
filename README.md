@@ -17,6 +17,9 @@ customizable admin dashboards.
     <img src="images/PageSpeedInsights.png" alt="Githelp" width="500" style="border-radius: 12px"/>
 </p>
 
+## Now also available for TypeScript and script setup! 🚀🚀
+
+
 ### Ready to Elevate Your Development Experience?
 
 If you're considering acquiring this powerful template, head over to my sponsorship page (Sponsor Me). Unlock the full
