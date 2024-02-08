@@ -94,3 +94,17 @@ Dark Mode
 
 ![Profile](images/Profile.png)
 
+# Changelog
+
+#### 08.02.2024
+
+Added three new pages to the Academy platform:
+
+1. Academy Dashboard
+2. Academy My Course
+3. Academy Course Details
+
+Enjoy exploring the new additions!
+
+
+
