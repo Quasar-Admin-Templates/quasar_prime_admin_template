@@ -1,7 +1,7 @@
 # Quasar Prime Admin Template
 
 
-## Proudly serving over 13+ happy customers and counting! 🚀🚀🚀
+## Proudly serving over 14+ happy customers and counting! 🚀🚀🚀
 
 Introducing Quasar Prime Admin Template – Your Ultimate Solution for a Powerful and Elegant Dashboard!
 
