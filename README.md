@@ -18,7 +18,7 @@ customizable admin dashboards.
 </p>
 
 ## Now also available for TypeScript and script setup! 🚀🚀
-
+## Now also supports Vite 5
 
 ### Ready to Elevate Your Development Experience?
 
