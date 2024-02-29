@@ -96,6 +96,11 @@ Dark Mode
 
 # Changelog
 
+#### 29.02.2024
+
+1. Integration of Quasar v2.14.5 with Vite 5 for enhanced performance and development experience.
+2. Vite 5 brings improved build times and development server performance, ensuring faster development cycles.
+
 #### 08.02.2024
 
 Added three new pages to the Academy platform:
