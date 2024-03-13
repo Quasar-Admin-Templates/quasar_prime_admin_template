@@ -68,6 +68,8 @@ enhancements, improvements, and new features, ensuring your admin dashboard rema
 
 ### In summary, Quasar Prime Template is more than an admin dashboard; it's a dynamic toolkit designed to empower developers in creating exceptional, scalable, and visually striking web applications. Experience the difference with Quasar Prime Template – where innovation meets ease of use.
 
+#### In closing, we extend the assurance that all transactions are final, and no refunds shall be provided.
+
 # Screenshots
 
 1. Dashboard
