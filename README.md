@@ -33,6 +33,8 @@ Curious? Check out the live demo at [Quasar Prime Analytics](https://quasar-prim
 to experience the dynamic features and versatility this
 template offers.
 
+If you want to pay using PayPal, please contact me at pratikpatelpp802@gmail.com.
+
 Elevate your projects with Quasar Prime Template – where minimalist design meets robust functionality.
 
 Why Choose Quasar Prime Template?
