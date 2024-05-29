@@ -29,6 +29,9 @@ potential of the code by [sponsoring](https://github.com/sponsors/pratik227) for
 grants you exclusive access to the
 template.
 
+> **Warning**
+Please note: Don't forget to cancel the sponsorship after a few days if you only need one-time access, as the monthly sponsorship is the only way I can grant repository access.
+
 Curious? Check out the live demo at [Quasar Prime Analytics](https://quasar-prime-admin-template.netlify.app/analytics)
 to experience the dynamic features and versatility this
 template offers.
