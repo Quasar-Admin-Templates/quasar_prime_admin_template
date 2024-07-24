@@ -1,7 +1,7 @@
 # Quasar Prime Admin Template
 
 
-## Proudly serving over 37+ happy customers and counting! 🚀🚀🚀
+## Proudly serving over 38+ happy customers and counting! 🚀🚀🚀
 
 Introducing Quasar Prime Admin Template – Your Ultimate Solution for a Powerful and Elegant Dashboard!
 
@@ -30,7 +30,7 @@ grants you exclusive access to the
 template.
 
 > **Warning**
-Please note: Don't forget to cancel the sponsorship after a few days if you only need one-time access, as the monthly sponsorship is the only way I can grant repository access.
+Please note: Don't forget to cancel the sponsorship after a 20 days if you only need one-time access, as the monthly sponsorship is the only way I can grant repository access.
 
 Curious? Check out the live demo at [Quasar Prime Analytics](https://quasar-prime-admin-template.netlify.app/analytics)
 to experience the dynamic features and versatility this
