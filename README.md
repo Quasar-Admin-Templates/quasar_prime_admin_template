@@ -108,7 +108,7 @@ Dark Mode
 
 #### 15.07.2024
 
-1. Pinia added in Vite 5 and i18n warning fixes
+1. Pinia added in Vite 5 Branch and i18n warning fixes
 2. Bump versions
 3. New Language pack added (French, Russian)
 
