@@ -105,6 +105,13 @@ Dark Mode
 
 # Changelog
 
+
+#### 15.07.2024
+
+1. Pinia added in Vite 5 and i18n warning fixes
+2. Bump versions
+3. New Language pack added (French, Russian)
+
 #### 19.03.2024
 
 Documentation added
