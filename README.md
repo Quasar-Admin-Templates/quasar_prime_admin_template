@@ -25,7 +25,7 @@ customizable admin dashboards.
 ### Ready to Elevate Your Development Experience?
 
 If you're considering acquiring this powerful template, head over to my sponsorship page (Sponsor Me). Unlock the full
-potential of the code by [sponsoring](https://github.com/sponsors/pratik227) for (<strike>$549</strike>)$249 per month(Launching price), a one-time payment that
+potential of the code by [sponsoring](https://github.com/sponsors/pratik227) for (<strike>$549</strike>)$249 one time(Launching price), a one-time payment that
 grants you exclusive access to the
 template.
 
