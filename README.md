@@ -105,6 +105,11 @@ Dark Mode
 
 # Changelog
 
+#### 19.09.2024
+
+1. Few Fixes related to i18n
+2. Korean Language Added
+3. Bump Versions
 
 #### 15.07.2024
 
