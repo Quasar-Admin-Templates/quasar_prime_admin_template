@@ -1,5 +1,6 @@
 # Quasar Prime Admin Template
 
+![Ecommerce](images/quality_gate.svg)
 
 ## Proudly serving over 51+ happy customers and counting! 🚀🚀🚀
 
@@ -104,6 +105,12 @@ Dark Mode
 ![Profile](images/Profile.png)
 
 # Changelog
+
+### 11.10.2024
+
+1. Refactored code to adhere to SonarQube recommendations
+2. Addressed code smells and vulnerabilities
+3. Improved code readability and maintainability
 
 #### 19.09.2024
 
