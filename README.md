@@ -3,7 +3,7 @@
 
 ## Proudly serving over 51+ happy customers and counting! 🚀🚀🚀
 
-![Ecommerce](images/quality_gate.svg)
+[![SonarQube](images/quality_gate.svg)](https://www.sonarsource.com/products/sonarqube/)
 
 
 Introducing Quasar Prime Admin Template – Your Ultimate Solution for a Powerful and Elegant Dashboard!
