@@ -1,8 +1,10 @@
 # Quasar Prime Admin Template
 
-![Ecommerce](images/quality_gate.svg)
 
 ## Proudly serving over 51+ happy customers and counting! 🚀🚀🚀
+
+![Ecommerce](images/quality_gate.svg)
+
 
 Introducing Quasar Prime Admin Template – Your Ultimate Solution for a Powerful and Elegant Dashboard!
 
