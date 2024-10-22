@@ -1,7 +1,7 @@
 # Quasar Prime Admin Template
 
 
-## Proudly serving over 52+ happy customers and counting! 🚀🚀🚀
+## Proudly serving over 53+ happy customers and counting! 🚀🚀🚀
 
 [![SonarQube](images/quality_gate.svg)](https://www.sonarsource.com/products/sonarqube/)
 
