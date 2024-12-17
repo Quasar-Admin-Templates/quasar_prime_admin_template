@@ -6,6 +6,8 @@
 [![SonarQube](images/quality_gate.svg)](https://www.sonarsource.com/products/sonarqube/)
 
 
+🎄 Supercharge Your Vue.js Apps This Christmas! 🎄 🎁 Holiday Special: $20 off!!
+
 Introducing Quasar Prime Admin Template – Your Ultimate Solution for a Powerful and Elegant Dashboard!
 
 Quasar Prime Template – Empowering Developers with an Exceptional Vue.js Admin Dashboard
