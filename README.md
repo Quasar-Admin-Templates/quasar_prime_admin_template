@@ -110,6 +110,22 @@ Dark Mode
 
 # Changelog
 
+#### 03.01.2025  
+
+**Major Updates**  
+
+1. Packages Updated  
+2. Media Player Added  
+3. Tree View Added
+4. Scrollbar Added
+5. Utilities Integrated - Added support for:
+    - `moment.js`  
+    - `dayjs`  
+    - `numeral.js`  
+    - `copy-to-clipboard`  
+    - `UID generator`
+6. Drag and Drop Examples Added
+
 ### 11.10.2024
 
 1. Refactored code to adhere to SonarQube recommendations
