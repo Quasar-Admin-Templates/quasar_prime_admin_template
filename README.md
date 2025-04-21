@@ -112,7 +112,7 @@ Dark Mode
 
 1. Packages Updated in all branch
 2. Vite 6 supported now
-3. Vite 5 branch will be depricated after few days will maintain vite 6 branch
+3. Vite 5 branch will be deprecated after few days will maintain vite 6 branch
 
 #### 03.01.2025  
 
