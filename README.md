@@ -21,7 +21,7 @@ customizable admin dashboards.
 </p>
 
 ## Now also available for TypeScript and script setup! 🚀🚀
-## Now also supports Vite 5
+## Now also supports Vite 5 and 6
 
 ### Doc(WIP) -  https://quasar-prime-admin-documentation.netlify.app/
 
@@ -107,6 +107,12 @@ Dark Mode
 ![Profile](images/Profile.png)
 
 # Changelog
+
+#### 21.04.2025  
+
+1. Packages Updated in all branch
+2. Vite 6 supported now
+3. Vite 5 branch will be depricated after few days will maintain vite 6 branch
 
 #### 03.01.2025  
 
