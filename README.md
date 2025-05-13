@@ -23,7 +23,7 @@ customizable admin dashboards.
 ## Now also available for TypeScript and script setup! 🚀🚀
 ## Now also supports Vite 5 and 6
 
-### Doc(WIP) -  https://quasar-prime-admin-documentation.netlify.app/
+### Doc -  https://quasar-prime-admin-documentation.netlify.app/
 
 ### Ready to Elevate Your Development Experience?
 
