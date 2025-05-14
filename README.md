@@ -25,12 +25,25 @@ customizable admin dashboards.
 
 ### Doc -  https://quasar-prime-admin-documentation.netlify.app/
 
+## ✅ Standard License Version
+
 ### Ready to Elevate Your Development Experience?
 
-If you're considering acquiring this powerful template, head over to my sponsorship page (Sponsor Me). Unlock the full
-potential of the code by [sponsoring](https://github.com/sponsors/pratik227) for (<strike>$549</strike>)$249 one time(Launching price), a one-time payment that
-grants you exclusive access to the
-template.
+If you're looking to build elegant internal tools or dashboards for your organization, head over to my [Sponsorship Page](https://github.com/sponsors/pratik227) and unlock the full potential of the **Quasar Prime Admin Template**.
+
+A **one-time sponsorship of <strike>$549</strike> $249** grants you **Standard License** access — perfect for **internal use only** (non-commercial or commercial within your organization).
+
+---
+
+## 🚀 Extended License Version
+
+### Ready to Elevate Your Development Experience?
+
+Want to use the Quasar Prime Admin Template in **SaaS, client projects, or commercial products**? Head over to my [Sponsorship Page](https://github.com/sponsors/pratik227) and gain full access with the **Extended License**.
+
+A **one-time sponsorship of <strike>$1999</strike> $1499** gives you the rights to use the template in **redistributable commercial projects** (with significant modifications).
+
+---
 
 Curious? Check out the live demo at [Quasar Prime Analytics](https://quasar-prime-admin-template.netlify.app/analytics)
 to experience the dynamic features and versatility this
